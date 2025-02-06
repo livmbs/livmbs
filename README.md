@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media1.tenor.com/m/_vqZn008e0MAAAAd/starry-night-clouds.gif" width="250"/>
 
-### Graduanda em Ciência & Tecnologia, com ênfase em Aeroespacial e Astronomia, pela UFRN
+### Graduanda em Ciências & Tecnologia, com ênfase em Aeroespacial e Astronomia, pela UFRN
 
 - 🔭 Faço parte do grupo de pesquisa de Astrofísica e Exoplanetologia **[TITAN](https://github.com/titanufrn)**
 - 🔭 Atualmente trabalhando com atmosferas de exoplanetas (principalmente Júpiteres Quentes e Super-Terras)
